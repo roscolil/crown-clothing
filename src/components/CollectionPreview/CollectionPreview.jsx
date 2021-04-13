@@ -1,4 +1,3 @@
-import { getByTitle } from "@testing-library/dom";
 import React from "react";
 import CollectionItem from "../CollectionItem/CollectionItem";
 import "./CollectionPreivew.scss";
